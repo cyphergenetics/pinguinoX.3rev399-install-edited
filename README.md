@@ -1,4 +1,4 @@
-# Edited install scripts for the Pinguino X revision 399 on a GNU/Linux operating system #
+### Edited install scripts for the Pinguino X revision 399 on a GNU/Linux operating system ###
 
 Original script (for the revision 208) by:
 
